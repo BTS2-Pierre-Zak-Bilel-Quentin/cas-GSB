@@ -20,4 +20,8 @@ $pdo->SupprImmat($SupprImmat);
 break;
 }
 }
+<<<<<<< HEAD
 ?>
+=======
+?>
+>>>>>>> 2bf7a1fb8a3a27c250be9fbdaac0a391a6ec1df2

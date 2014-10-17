@@ -49,8 +49,6 @@ switch($action){
             $idVisiteur = $visiteur['idVisiteur'];
 
 			$Immatriculation = $visiteur['Immatriculation'];
-            
-           
 			
 			connecter($id,$nom,$prenom,$idVisiteur,$Immatriculation);
 
